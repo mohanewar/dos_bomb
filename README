@@ -1,0 +1,2 @@
+gcc dos_bomb.c -o dos_bomb
+USAGE : ./dos_bomb www.website.com 80
